@@ -13,4 +13,5 @@ const connectDB = async () => {
     }
 }
 
-export default connectDB;
+// we exporeted a function connetDB to start in server or index by calling it
+export default connectDB;  
